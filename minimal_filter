@@ -1,1 +1,37 @@
+! Title: REALM's List
+# GOOGLEADD
+||afs.googlesyndication.com^
+# AMAZON
+||adtago.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+# GOOGLEANALYTICS
+||analytics.google.com^
+||click.googleanalytics.com^
+# SENTRY
 ||browser.sentry-cdn.com^
+||app.getsentry.com^
+# BUGSNAP
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+# PINTEREST
+||widgets.pinterest.com^
+# TIKTOK
+||ads-api.tiktok.com^
+||ads-sg.tiktok.com^
+||business-api.tiktok.com^
+||ads.tiktok.com^
+# YANDEX
+||appmetrica.yandex.ru^
+||metrika.yandex.ru^
+||advertising.yandex.ru^
+# YAHOO
+||udc.yahoo.com^
+||udcm.yahoo.com^
+||log.fc.yahoo.com^
+# OPPO
+||ck.ads.oppomobile.com^
+# APPLE
+||advertising.apple.com^
